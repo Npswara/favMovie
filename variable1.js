@@ -6,7 +6,7 @@ var usia
 judul = "Doraemon the Movie: Nobita's Sky Utopia";
 rating = 6.9;
 tahun = 2023;
-usia = true;
+usia = 16;
 
 
 console.log('judul = '+judul)
